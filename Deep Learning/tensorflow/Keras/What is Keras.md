@@ -1,0 +1,3 @@
+- open source deep learning framework
+- high level api
+- originally a standalone but now a part of Tensorflow
