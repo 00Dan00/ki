@@ -1,0 +1,4 @@
+- einfaches beispiel ohne Bewegung
+- komplexeres mit Bewegung
+- average reward bei perfekter Bewegung
+- Vergleich der Länge und Stabilität

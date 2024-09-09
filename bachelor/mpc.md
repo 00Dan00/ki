@@ -1,0 +1,4 @@
+- kinetisches Modell (bycicle)
+- limitations
+- alignment with reward function
+- what to minimize
